@@ -12,7 +12,7 @@ public class Main {
 
         operativa_cuenta(cuenta1, 0);
     }
-    
+    // Esto es un nuevo comentario para Git.
     private static void operativa_cuenta(Cuenta cuenta1, float cantidad) {
         try {
             cuenta1.retirar(2300);
